@@ -4,8 +4,8 @@ i = naiss
 b = 0
 c = 0 
 
-while i <= 2017  
-	c = 2017 - i
+while i <= 2019  
+	c = 2019 - i
 	puts i
 
 	if b != c 
