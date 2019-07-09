@@ -3,7 +3,7 @@ naiss = gets.chomp.to_i
 i = naiss
 b = 0
 
-while i <= 2017 
+while i <= 2019 
 	puts i 
 	puts "tu avais en #{i}, #{b} an(s)"
 	i = i + 1
