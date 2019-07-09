@@ -6,7 +6,7 @@ ligne = 1 # on pense boucle sur la ligne 1 il y a 1 caractere
 b = '# ' # je défini mon caractere
 caractere = 1
 
-if i >= 25 
+if i > 25 
 		puts "Veuillez choisir un nombre entre 1 et 25"
 		ligne = i + 1 # oui oui juste du ni vu ni connu je t'embrouille pour faire respecter la condition i ne depasse pas 25
 end
